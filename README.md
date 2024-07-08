@@ -51,10 +51,3 @@ Mentor : G.SRAVANI
   ![image](https://github.com/akhileshwari11/CodTech-Task-i-/assets/174042809/19cc6981-76a6-41fb-9639-4927980682e8)
 
 
-
-### 6. Enhancements (Optional)
-- Add additional features such as marking tasks as completed, filtering tasks, or categorizing them.
-- Enhance the user interface with advanced styling or by using a CSS framework like Bootstrap.
-- Implement error handling and validation to improve robustness.
-
-This overview provides a structured approach to building a basic to-do list application with CRUD operations and local storage, using HTML, CSS, and JavaScript.
